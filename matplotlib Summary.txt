@@ -1,0 +1,7 @@
+matplotlib Conclusions - Pyber
+
+There are by far the most rides in the cities and the most drivers, but the average fare is higher in the rural areas
+
+Highest percent of total fares, total rides, and total drivers are in the urban areas
+
+Clearly the urban areas are the best place for a person to catch a rider.  Also, a driver who wants to make a lot of money and can commit the time to picking up a lot of riders is best served by working in the city.  But someone who doesn't want to drive a lot can make the best money in the rural areas, where the average fares are higher
